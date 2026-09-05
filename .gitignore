@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment Variables & Secrets
+.env
+.env.local
+
+# Large Datasets & Data Folder (GitHub has a 100MB limit per file)
+data/*.csv
+data/*.zip
+data/*.tar.gz
+data/*.parquet
+!data/sample_*.csv
+
+# Model Checkpoints & Large Artifacts
+*.pkl
+*.joblib
+*.h5
+*.pt
+*.onnx
+
+# IDE & OS specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
