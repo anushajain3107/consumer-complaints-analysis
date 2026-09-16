@@ -1,12 +1,9 @@
 {
     "0": "Bank account or service",
-    "1": "Checking or savings account",
-    "2": "Consumer Loan",
-    "3": "Credit card",
-    "4": "Credit card or prepaid card",
-    "5": "Credit reporting",
-    "6": "Credit reporting, credit repair services, or other personal consumer reports",
-    "7": "Debt collection",
-    "8": "Mortgage",
-    "9": "Student loan"
+    "1": "Consumer Loan",
+    "2": "Credit card",
+    "3": "Credit reporting",
+    "4": "Debt collection",
+    "5": "Mortgage",
+    "6": "Student loan"
 }
