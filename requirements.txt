@@ -1,10 +1,23 @@
+# Core Data Science & NLP
 pandas>=2.0.0
 numpy>=1.24.0
+pyarrow>=14.0.0
+scikit-learn>=1.3.0
+joblib>=1.3.0
+tqdm>=4.65.0
 matplotlib>=3.7.0
 seaborn>=0.12.0
-scikit-learn>=1.2.0
-jupyter>=1.0.0
-ipykernel>=6.0.0
-nltk>=3.8.0
-wordcloud>=1.9.0
-tqdm>=4.65.0
+
+# Information Retrieval & Semantic Search
+rank-bm25>=0.2.2
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
+
+# Production Backend & Serving
+fastapi>=0.100.0
+uvicorn>=0.23.0
+pydantic>=2.0.0
+
+# Interactive Frontend Dashboard
+streamlit>=1.30.0
+requests>=2.31.0
